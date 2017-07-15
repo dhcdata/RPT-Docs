@@ -22,18 +22,18 @@ The purposes of the SREC shall be
 
 #### Section 1\. Election.
 
-The SREC shall be composed of the State Chairman (hereinafter referred to as the “Chairman”) and the State Vice-Chairman (hereinafter referred to as the “Vice-Chairman”), one a man and the other a woman, and two (2) members from each state-senatorial district, one a man and the other a woman, all to be elected at the Party’s biennial state convention, as prescribed by the Texas Election Code[^1].
+The SREC shall be composed of the State Chairman (hereinafter referred to as the “Chairman”) and the State Vice-Chairman (hereinafter referred to as the “Vice-Chairman”), one a man and the other a woman, and two (2) members from each state-senatorial district, one a man and the other a woman, all to be elected at the Party’s biennial state convention, as prescribed by the Texas Election Code<sup>1</sup>.
 
 (Proviso: The Secretary shall add or update the parenthetical notations in these Bylaws as necessary, which reference the TEC or RPT Rules.)
 
 
 #### Section 2\. Qualifications.
 
-In order to qualify as a candidate for membership on the SREC, one must affiliate[^2] with the Party in the year in which the SREC is elected and in which he or she runs for SREC membership, contingent only upon requisites stated in Section 1 of this Article.
+In order to qualify as a candidate for membership on the SREC, one must affiliate<sup>2</sup> with the Party in the year in which the SREC is elected and in which he or she runs for SREC membership, contingent only upon requisites stated in Section 1 of this Article.
 
 #### Section 3\. Term of Office.
 
-The term of office shall commence immediately upon conclusion of the State Convention, at which the Member, Chairman, or Vice Chairman is elected and continue until the conclusion of the next biannual convention.[^3]
+The term of office shall commence immediately upon conclusion of the State Convention, at which the Member, Chairman, or Vice Chairman is elected and continue until the conclusion of the next biannual convention.<sup>3</sup>
 
 #### Section 4\. Vacancies.
 
@@ -49,12 +49,13 @@ It shall be the duty of each SREC member to furnish liaison between the Party an
 
 * B.  Recognizing the substantial contributions to Party development and growth by autonomous Republican auxiliaries, and desirous of promoting harmonious interaction between these groups and the Party, the SREC extends ex-officio membership, without a vote, to a representative from each auxiliary, to be selected by each respective group, contingent upon meeting the criteria outlined in Article VII, Section 8(E)(2)(b). This ex-officio status grants the privilege of attending all SREC meetings, of speaking at such meetings, and of submitting prior to each SREC meeting a written activity report to be included in each member’s briefing document in lieu of an oral presentation of the organization’s activities, but not to make motions, vote, or attend executive sessions of the SREC or of the SREC committee meetings.
 
-```
-[^1]TEC Sec. 171.002
-[^2]TEC Sec. 162.001
-[^3]TEC Sec. 171.002(c)
-```
-
+---
+###### Article III Footnotes
+| |<sub>Reference</sub>|
+| --- | --- |
+|<sup>1</sup>|<sub>TEC Sec. 171.002</sub>|
+|<sup>2</sup>|<sub>TEC Sec. 162.001</sub>|
+|<sup>3</sup>|<sub>TEC Sec. 171.002(c)</sub>|
 
 ### ARTICLE IV – ELECTED OFFICERS OF THE SREC
 
@@ -90,14 +91,16 @@ The elected officers of the SREC shall be the Chairman, the Vice-Chairman, and t
 
 * C.  The SECRETARY, who may be either a member of the SREC or such other person as the SREC may select, shall be elected by the SREC at its organizational meeting for a term concurrent with that of the SREC; and shall act as recording officer of the SREC, keeping the minutes and attendance records for all SREC meetings, such records to be retained at State Headquarters in a journal for that purpose. If the Secretary is an SREC member, then the Secretary will be a voting ex-officio member of all committees. In the event that the Secretary is not an elected member of the SREC, that person shall be a non-voting ex-officio member of the SREC and all committees.
 
-```
-[^4]TEC Sec. 171.002
-[^5]TEC Sec. 171.002
-[^6]TEC Sec. 174.094(a)
-[^7]TEC 172.120
-[^8]National Rules of the Republican Party, Rule 1
-[^9]TEC Sec. 171.002
-```
+---
+###### Article IV Footnotes
+| |<sub>Reference</sub>|
+| --- | --- |
+|<sup>4</sup>|<sub>TEC Sec. 171.002</sub>|
+|<sup>5</sup>|<sub>TEC Sec. 171.002</sub>|
+|<sup>6</sup>|<sub>TEC Sec. 174.094(a)</sub>|
+|<sup>7</sup>|<sub>TEC 172.120</sub>|
+|<sup>8</sup>|<sub>National Rules of the Republican Party, Rule 1</sub>|
+|<sup>9</sup>|<sub>TEC Sec. 171.002</sub>|
 
 ### ARTICLE V – MEETINGS
 
@@ -129,13 +132,15 @@ A quorum for all regular and special meetings of the SREC shall be a majority (n
 
 Each member of the SREC, including the Chairman and the Vice-Chairman, in person or represented by proxy, shall have the right to cast his individual vote. The method of voting shall be by voice, show of hands, or ballot, as determined by the Chairman, unless otherwise ordered by a majority vote of the SREC, provided, however, that upon demand of at least twenty per cent (20%) of the members present, in person or represented by proxy, a roll-call vote shall be taken. The “ayes” and “nays” of any roll-call vote shall be entered into the minutes of such a meeting.
 
-```
-[^10]TEC Sec. \_\_\_
-[^11]TEC Sec. \_\_\_
-[^12]RPT Rule 8
-[^13]TEC Sec. 171.004
-[^14]TEC Sec. 171.003(b) 
-```
+---
+###### Article V Footnotes
+| |<sub>Reference</sub>|
+| --- | --- |
+|<sup>10</sup>|<sub>TEC Sec. \_\_\_</sub>|
+|<sup>11</sup>|<sub>TEC Sec. \_\_\_</sub>|
+|<sup>12</sup>|<sub>RPT Rule 8</sub>|
+|<sup>13</sup>|<sub>TEC Sec. 171.004</sub>|
+|<sup>14</sup>|<sub>TEC Sec. 171.003(b) </sub>|
 
 ### ARTICLE VI – OFFICIALS OF THE PARTY
 
@@ -171,9 +176,11 @@ The appointive officials of the Party shall be the Finance Chairman, the Treasur
     
     10.  The HISTORIAN (optional) shall be appointed following the election of the chair. The historian shall compile and maintain records reflecting the history of the Republican Party of Texas.
 
-```
-[^15]RPT Rule 40
-```
+---
+###### Article VI Footnotes
+| |<sub>Reference</sub>|
+| --- | --- |
+|<sup>15</sub>|<sub>RPT Rule 40</sub>|
 
 ### ARTICLE VII – COMMITTEES
 
@@ -427,10 +434,12 @@ Special committees, as are deemed necessary to perform duties not specifically a
 
 Special meetings (e.g. meetings other than the quarterly called meetings of the SREC) of the Candidate Resource Committee, the Legislative Affairs Committee, and any special committees appointed by the Chairman, or subcommittees thereof, called pursuant to Section 3 of this Article, may be conducted via telephone conference, except that notice of the special meeting must be sent to each member of the committee or subcommittee and each member of the SREC via mail or email five (5) days prior to the meeting. Such notice shall include matters to be discussed. Meetings held by telephone conference must allow for simultaneous aural communication among all participating members and must provide a method for non-committee members who have a right to appear before the committee or testify to seek recognition from the Chair of the committee or provide a scheduled opportunity for such testimony prior to the vote being taken on the relevant issue.
 
-```
-[^16]As specified in Robert’s Rules of Order, Newly Revised, 10<sup>th</sup> Edition, Page 4, Line 27\. 
-[^17]RPT Rule 1(b)
-```
+---
+###### Article VI Footnotes
+| |<sub>Reference</sub>|
+| --- | --- |
+|<sup>16</sup>|<sub>As specified in Robert's Rules of Order, Newly Revised, 10<sup>th</sup> Edition, Page 4, Line 27</sub>|
+|<sup>17</sup>|<sub>RPT Rule 1(b)</sub>|
 
 ### ARTICLE VIII – FINANCE
 
@@ -476,17 +485,22 @@ Funds shall be allocated for rental space and for personnel, as budgeted by the 
 
 Staff members shall remain neutral in intraparty contests for both public and Party offices.
 
-```
-[^18]RPT Rules 32 and 43
-```
+---
+###### Article IX Footnotes
+| |<sub>Reference</sub>|
+| --- | --- |
+|<sup>18</sup>|<sub>RPT Rules 32 and 43</sub>|
 
 ### ARTICLE X – PARLIAMENTARY AUTHORITY
 
 Rules contained in the current edition of Robert’s Rules of Order Newly Revised shall govern the SREC in all cases to which they are applicable and in which they are not inconsistent with these Bylaws, the Rules of the Party, or any state or federal statute.[^19]
 
-```
-[^19]RPT Rule 5
-```
+---
+###### Article X Footnotes
+| |<sub>Reference</sub>|
+| --- | --- |
+|<sup>19</sup>|<sub>RPT Rule 5</sub>|
+
 
 ### ARTICLE XI – AMENDMENT OF BYLAWS
 
