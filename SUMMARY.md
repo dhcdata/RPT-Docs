@@ -1,6 +1,6 @@
 # Summary
 
-[SREC Bylaws](README.md)
+[SREC Bylaws](SREC-Bylaws.md)
 
 
 
