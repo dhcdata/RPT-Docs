@@ -22,18 +22,18 @@ The purposes of the SREC shall be
 
 #### Section 1\. Election.
 
-The SREC shall be composed of the State Chairman (hereinafter referred to as the “Chairman”) and the State Vice-Chairman (hereinafter referred to as the “Vice-Chairman”), one a man and the other a woman, and two (2) members from each state-senatorial district, one a man and the other a woman, all to be elected at the Party’s biennial state convention, as prescribed by the Texas Election Code<sup>1</sup>.
+The SREC shall be composed of the State Chairman (hereinafter referred to as the “Chairman”) and the State Vice-Chairman (hereinafter referred to as the “Vice-Chairman”), one a man and the other a woman, and two (2) members from each state-senatorial district, one a man and the other a woman, all to be elected at the Party’s biennial state convention, as prescribed by the Texas Election Code<sup>[1](#article-iii-footnotes)</sup>.
 
 (Proviso: The Secretary shall add or update the parenthetical notations in these Bylaws as necessary, which reference the TEC or RPT Rules.)
 
 
 #### Section 2\. Qualifications.
 
-In order to qualify as a candidate for membership on the SREC, one must affiliate<sup>2</sup> with the Party in the year in which the SREC is elected and in which he or she runs for SREC membership, contingent only upon requisites stated in Section 1 of this Article.
+In order to qualify as a candidate for membership on the SREC, one must affiliate<sup>[2](#article-iii-footnotes)</sup> with the Party in the year in which the SREC is elected and in which he or she runs for SREC membership, contingent only upon requisites stated in Section 1 of this Article.
 
 #### Section 3\. Term of Office.
 
-The term of office shall commence immediately upon conclusion of the State Convention, at which the Member, Chairman, or Vice Chairman is elected and continue until the conclusion of the next biannual convention.<sup>3</sup>
+The term of office shall commence immediately upon conclusion of the State Convention, at which the Member, Chairman, or Vice Chairman is elected and continue until the conclusion of the next biannual convention.<sup>[3](#article-iii-footnotes)</sup>
 
 #### Section 4\. Vacancies.
 
@@ -49,35 +49,34 @@ It shall be the duty of each SREC member to furnish liaison between the Party an
 
 * B.  Recognizing the substantial contributions to Party development and growth by autonomous Republican auxiliaries, and desirous of promoting harmonious interaction between these groups and the Party, the SREC extends ex-officio membership, without a vote, to a representative from each auxiliary, to be selected by each respective group, contingent upon meeting the criteria outlined in Article VII, Section 8(E)(2)(b). This ex-officio status grants the privilege of attending all SREC meetings, of speaking at such meetings, and of submitting prior to each SREC meeting a written activity report to be included in each member’s briefing document in lieu of an oral presentation of the organization’s activities, but not to make motions, vote, or attend executive sessions of the SREC or of the SREC committee meetings.
 
----
 ###### Article III Footnotes
 | |<sub>Reference</sub>|
 | --- | --- |
 |<sup>1</sup>|<sub>TEC Sec. 171.002</sub>|
 |<sup>2</sup>|<sub>TEC Sec. 162.001</sub>|
 |<sup>3</sup>|<sub>TEC Sec. 171.002(c)</sub>|
-
+---
 ### ARTICLE IV – ELECTED OFFICERS OF THE SREC
 
 #### Section 1\. Elected Officers.
 
-The elected officers of the SREC shall be the Chairman, the Vice-Chairman, and the Secretary, who each shall perform those duties assigned to them by the Texas Election Code<sup>4</sup>, by these Bylaws, and by the Rules of the Party.
+The elected officers of the SREC shall be the Chairman, the Vice-Chairman, and the Secretary, who each shall perform those duties assigned to them by the Texas Election Code<sup>[4](#article-iv-footnotes)</sup>, by these Bylaws, and by the Rules of the Party.
 
 #### Section 2\. Duties.
 
-* A.  The CHAIRMAN, who shall be elected as prescribed by the Texas Election Code,5 shall be the chief executive officer of the Party, representing the SREC as its official spokesman. Additionally, the Chairman shall:
+* A.  The CHAIRMAN, who shall be elected as prescribed by the Texas Election Code<sup>[5](#article-iv-footnotes)</sup>, shall be the chief executive officer of the Party, representing the SREC as its official spokesman. Additionally, the Chairman shall:
 
     1.  Preside at all meetings of the SREC;
     
-    2.  Serve as temporary chairman of the biennial state convention;[^6]
+    2.  Serve as temporary chairman of the biennial state convention;<sup>[6](#article-iv-footnotes)</sup>[^6]
     
     3.  Make the appointments specified by these Bylaws;
     
-    4.  Call the meetings specified in the Texas Election Code[^7] and in these Bylaws;
+    4.  Call the meetings specified in the Texas Election Code<sup>[7](#article-iv-footnotes)</sup>[^7] and in these Bylaws;
     
     5.  Be a voting ex-officio member of all committees;
     
-    6.  Serve as a member of the Republican National Committee, subject to that body’s rules;[^8]
+    6.  Serve as a member of the Republican National Committee, subject to that body’s rules;<sup>[8](#article-iv-footnotes)</sup>[^8]
     
     7.  Ensure compliance of the Party with all applicable state and federal laws, with these Bylaws, and with the Rules of the Party;
     
@@ -87,11 +86,10 @@ The elected officers of the SREC shall be the Chairman, the Vice-Chairman, and t
     
     10.  Assure the safekeeping of all records of the Party and turn them over to his successor upon vacating the office.
 
-* B.  The VICE-CHAIRMAN, who shall be elected as prescribed by the Texas Election Code[^9], shall assist the Chairman as requested in the performance of the duties of that office; and in the event of the Chairman’s death or resignation shall perform the duties of the Chairman until a new Chairman is elected. In the event of a vacancy in the office of the Chairman, the Vice-Chairman shall call a meeting of the SREC, to be held within thirty (30) days of the Chairman’s death or resignation, for the purpose of electing a new Chairman. Notice of the date, time, and place of the meeting shall be given the SREC members no fewer than ten (10) days prior to the meeting. This notice provision for the meeting to elect a new Chairman shall be superior to and govern any and all other notice provisions contained in these Bylaws. However, notwithstanding the foregoing, if a Chairman submits in writing to the SREC an irrevocable letter of resignation setting a specific day and exact time certain in the future as to when the Chairman’s resignation will be effective, and such resignation is accepted by the Officials Committee or the SREC, then the Chairman may in place of the Vice-Chairman call a meeting of the SREC to be held on the day the resignation takes place provided such notice was sent to the SREC at least thirty (30) days prior to the meeting at which the new Chairman will be elected. In the event the Chairman does not call such a meeting, the Vice-Chairman shall call a meeting after the resignation is in effect in accordance with the previous provisions of this article. The Vice-Chairman shall be a voting ex-officio member of all committees.
+* B.  The VICE-CHAIRMAN, who shall be elected as prescribed by the Texas Election Code<sup>[9](#article-iv-footnotes)</sup>[^9], shall assist the Chairman as requested in the performance of the duties of that office; and in the event of the Chairman’s death or resignation shall perform the duties of the Chairman until a new Chairman is elected. In the event of a vacancy in the office of the Chairman, the Vice-Chairman shall call a meeting of the SREC, to be held within thirty (30) days of the Chairman’s death or resignation, for the purpose of electing a new Chairman. Notice of the date, time, and place of the meeting shall be given the SREC members no fewer than ten (10) days prior to the meeting. This notice provision for the meeting to elect a new Chairman shall be superior to and govern any and all other notice provisions contained in these Bylaws. However, notwithstanding the foregoing, if a Chairman submits in writing to the SREC an irrevocable letter of resignation setting a specific day and exact time certain in the future as to when the Chairman’s resignation will be effective, and such resignation is accepted by the Officials Committee or the SREC, then the Chairman may in place of the Vice-Chairman call a meeting of the SREC to be held on the day the resignation takes place provided such notice was sent to the SREC at least thirty (30) days prior to the meeting at which the new Chairman will be elected. In the event the Chairman does not call such a meeting, the Vice-Chairman shall call a meeting after the resignation is in effect in accordance with the previous provisions of this article. The Vice-Chairman shall be a voting ex-officio member of all committees.
 
 * C.  The SECRETARY, who may be either a member of the SREC or such other person as the SREC may select, shall be elected by the SREC at its organizational meeting for a term concurrent with that of the SREC; and shall act as recording officer of the SREC, keeping the minutes and attendance records for all SREC meetings, such records to be retained at State Headquarters in a journal for that purpose. If the Secretary is an SREC member, then the Secretary will be a voting ex-officio member of all committees. In the event that the Secretary is not an elected member of the SREC, that person shall be a non-voting ex-officio member of the SREC and all committees.
 
----
 ###### Article IV Footnotes
 | |<sub>Reference</sub>|
 | --- | --- |
@@ -101,18 +99,18 @@ The elected officers of the SREC shall be the Chairman, the Vice-Chairman, and t
 |<sup>7</sup>|<sub>TEC 172.120</sub>|
 |<sup>8</sup>|<sub>National Rules of the Republican Party, Rule 1</sub>|
 |<sup>9</sup>|<sub>TEC Sec. 171.002</sub>|
-
+---
 ### ARTICLE V – MEETINGS
 
 #### Section 1\. Conduct of Meetings.
 
-The SREC shall meet upon call of the Chairman, at such times as required by the Texas Election Code[^10] and as provided by these Bylaws in succeeding sections of this Article and by the Rules of the Party. All meetings of the SREC shall be open to credentialed media representatives and to interested Party members, except the SREC may declare an executive (closed) session for the purpose of considering confidential matters.
+The SREC shall meet upon call of the Chairman, at such times as required by the Texas Election Code<sup>[10](#article-v-footnotes)</sup> and as provided by these Bylaws in succeeding sections of this Article and by the Rules of the Party. All meetings of the SREC shall be open to credentialed media representatives and to interested Party members, except the SREC may declare an executive (closed) session for the purpose of considering confidential matters.
 
-* A.  STATUTORY MEETINGS. Meetings prescribed by the Texas Election Code[^11]shall be duly called by the Chairman, or in his absence by the Vice-Chairman, for the purpose so designated by law; and no other business may be transacted at such statutory meetings unless notice of such other business has been included in the call.
+* A.  STATUTORY MEETINGS. Meetings prescribed by the Texas Election Code<sup>[11](#article-v-footnotes)</sup>shall be duly called by the Chairman, or in his absence by the Vice-Chairman, for the purpose so designated by law; and no other business may be transacted at such statutory meetings unless notice of such other business has been included in the call.
 
 * B.  REGULAR MEETINGS. The SREC shall meet no less frequently than quarterly for the conduct of business necessary to fulfill its objectives and purposes. A statutory meeting is not precluded from being designated as a quarterly meeting. In even-numbered years, the fourth quarterly meeting shall be held after the November general election.
 
-* C.  ORGANIZATIONAL MEETINGS. One or more organizational meetings of the newly elected SREC shall be held within thirty (30) days following its election for the purpose of organizing the SREC, including the adoption of Bylaws,[^12] the election of a Secretary, and consideration of the Chairman’s appointments.
+* C.  ORGANIZATIONAL MEETINGS. One or more organizational meetings of the newly elected SREC shall be held within thirty (30) days following its election for the purpose of organizing the SREC, including the adoption of Bylaws,<sup>[12](#article-v-footnotes)</sup> the election of a Secretary, and consideration of the Chairman’s appointments.
 
 * D.  SPECIAL MEETINGS. Special meetings of the SREC may be called by the Chairman, and shall be called by the Chairman upon petition signed by at least fifteen (15) members of the SREC, representing no fewer than ten (10) state-senatorial districts, delivered to the Secretary (or to the State Headquarters if the Secretary is not available) at least fourteen (14) days prior to the date specified for the meeting. Any notice of a special meeting must contain the purpose for which the meeting is called.
 
@@ -122,17 +120,16 @@ A written call containing notice of the meeting shall be mailed and postmarked b
 
 #### Section 3\. Proxies.
 
-Written proxies for the SREC members shall be recognized at any general or executive meeting, but not committee meetings, of the SREC, except where otherwise specified in the bylaws, if the appointment complies with the Texas Election Code.[^13]Proxies are considered valid if the proxy giver’s signature is notarized or confirmation is provided to the Secretary and is approved by a proxy committee.
+Written proxies for the SREC members shall be recognized at any general or executive meeting, but not committee meetings, of the SREC, except where otherwise specified in the bylaws, if the appointment complies with the Texas Election Code.<sup>[13](#article-v-footnotes)</sup>Proxies are considered valid if the proxy giver’s signature is notarized or confirmation is provided to the Secretary and is approved by a proxy committee.
 
 #### Section 4\. Quorum.
 
-A quorum for all regular and special meetings of the SREC shall be a majority (no fewer than 33 SREC votes) of the SREC, in person or represented by proxy. At statutory meetings, a quorum shall consist of those members present, in person or represented by proxy (except where a different quorum requirement is imposed by the Texas Election Code[^14]) provided, however, that if a majority of the SREC is not represented as above provided, only the business required by the Texas Election Code shall be transacted.
+A quorum for all regular and special meetings of the SREC shall be a majority (no fewer than 33 SREC votes) of the SREC, in person or represented by proxy. At statutory meetings, a quorum shall consist of those members present, in person or represented by proxy (except where a different quorum requirement is imposed by the Texas Election Code<sup>[14](#article-v-footnotes)</sup>) provided, however, that if a majority of the SREC is not represented as above provided, only the business required by the Texas Election Code shall be transacted.
 
 #### Section 5\. Voting.
 
 Each member of the SREC, including the Chairman and the Vice-Chairman, in person or represented by proxy, shall have the right to cast his individual vote. The method of voting shall be by voice, show of hands, or ballot, as determined by the Chairman, unless otherwise ordered by a majority vote of the SREC, provided, however, that upon demand of at least twenty per cent (20%) of the members present, in person or represented by proxy, a roll-call vote shall be taken. The “ayes” and “nays” of any roll-call vote shall be entered into the minutes of such a meeting.
 
----
 ###### Article V Footnotes
 | |<sub>Reference</sub>|
 | --- | --- |
@@ -141,12 +138,12 @@ Each member of the SREC, including the Chairman and the Vice-Chairman, in person
 |<sup>12</sup>|<sub>RPT Rule 8</sub>|
 |<sup>13</sup>|<sub>TEC Sec. 171.004</sub>|
 |<sup>14</sup>|<sub>TEC Sec. 171.003(b) </sub>|
-
+---
 ### ARTICLE VI – OFFICIALS OF THE PARTY
 
 #### Section 1\. Elective Officials.
 
-The Republican National Committeeman and Committeewoman shall be the elective officials of the Party. Each shall be elected in accordance with the Rules of the Party. <sup>15</sup> Each shall serve a term of four (4) years, commencing with the adjournment of the quadrennial national convention. The duty of each shall be to provide liaison and communication between the SREC and Republican National Committee. In the event of a vacancy in the office of either National Committee member, the Chairman shall call a meeting of the SREC no fewer than twenty (20) days or more than thirty (30) days within occurrence of such vacancy for the purpose of electing a successor.
+The Republican National Committeeman and Committeewoman shall be the elective officials of the Party. Each shall be elected in accordance with the Rules of the Party.<sup>[15](#article-vi-footnotes)</sup> Each shall serve a term of four (4) years, commencing with the adjournment of the quadrennial national convention. The duty of each shall be to provide liaison and communication between the SREC and Republican National Committee. In the event of a vacancy in the office of either National Committee member, the Chairman shall call a meeting of the SREC no fewer than twenty (20) days or more than thirty (30) days within occurrence of such vacancy for the purpose of electing a successor.
 
 #### Section 2\. Appointive Officials.
 
@@ -176,12 +173,11 @@ The appointive officials of the Party shall be the Finance Chairman, the Treasur
     
     10.  The HISTORIAN (optional) shall be appointed following the election of the chair. The historian shall compile and maintain records reflecting the history of the Republican Party of Texas.
 
----
 ###### Article VI Footnotes
 | |<sub>Reference</sub>|
 | --- | --- |
 |<sup>15</sub>|<sub>RPT Rule 40</sub>|
-
+---
 ### ARTICLE VII – COMMITTEES
 
 #### Section 1\. Committee Members.
@@ -303,7 +299,7 @@ The standing committees of the SREC shall be the
  
  5.  Term of office shall run to the appointment of a succeeding committee at the first meeting of the SREC in each odd-numbered year unless a person becomes ineligible to serve due to a change in status under Article VII, Section 8(C)(1)(d) in which case a vacancy is created and shall be filled according to Article VII, Section 8(C)(5).
  
- 6.  A vacancy on the Candidate Resource Committee shall be filled promptly by the Chairman subject to Article VII, Section 8(C)(1)(d), such appointment to be presented for confirmation at the next meeting of the SREC. A member may be removed by two-thirds (2/3) vote of the SREC at any duly called and convened meeting with previous notice.[^16]
+ 6.  A vacancy on the Candidate Resource Committee shall be filled promptly by the Chairman subject to Article VII, Section 8(C)(1)(d), such appointment to be presented for confirmation at the next meeting of the SREC. A member may be removed by two-thirds (2/3) vote of the SREC at any duly called and convened meeting with previous notice.<sup>[16](#article-vi-footnotes)</sup>
  
  7.  Written proxies for an Candidate Resource Committee meeting may only be given to a current member of the SREC who is not ineligible under Article VII, Section 8(C)(1)(d) unless otherwise allowed by these Bylaws.
 
@@ -387,7 +383,7 @@ The standing committees of the SREC shall be the
    
  1. The Rules Committee shall be comprised of no fewer than five (5) members of the SREC, nominated by the Chairman and subject to confirmation by the SREC. The chairman of the Rules Committee shall be a member of the SREC and shall be appointed by the Chairman.
    
- 2. Subject to the approval by the SREC, it shall be the duty of the Rules Committee to recommend changes to these Bylaws, to recommend changes in the Party Rules to the Temporary Rules Committee of the next biennial state convention, and to recommend action on the Chairman’s clarification of any ambiguities in these Bylaws or in the Party Rules.[^17]
+ 2. Subject to the approval by the SREC, it shall be the duty of the Rules Committee to recommend changes to these Bylaws, to recommend changes in the Party Rules to the Temporary Rules Committee of the next biennial state convention, and to recommend action on the Chairman’s clarification of any ambiguities in these Bylaws or in the Party Rules.<sup>[](#article-vi-footnotes)</sup>
 
 * H THE LEGISLATIVE AFFAIRS COMMITTEE
 
@@ -434,13 +430,12 @@ Special committees, as are deemed necessary to perform duties not specifically a
 
 Special meetings (e.g. meetings other than the quarterly called meetings of the SREC) of the Candidate Resource Committee, the Legislative Affairs Committee, and any special committees appointed by the Chairman, or subcommittees thereof, called pursuant to Section 3 of this Article, may be conducted via telephone conference, except that notice of the special meeting must be sent to each member of the committee or subcommittee and each member of the SREC via mail or email five (5) days prior to the meeting. Such notice shall include matters to be discussed. Meetings held by telephone conference must allow for simultaneous aural communication among all participating members and must provide a method for non-committee members who have a right to appear before the committee or testify to seek recognition from the Chair of the committee or provide a scheduled opportunity for such testimony prior to the vote being taken on the relevant issue.
 
----
 ###### Article VI Footnotes
 | |<sub>Reference</sub>|
 | --- | --- |
 |<sup>16</sup>|<sub>As specified in Robert's Rules of Order, Newly Revised, 10<sup>th</sup> Edition, Page 4, Line 27</sub>|
 |<sup>17</sup>|<sub>RPT Rule 1(b)</sub>|
-
+---
 ### ARTICLE VIII – FINANCE
 
 #### Section 1\. Campaign Fund.
@@ -471,7 +466,7 @@ Neither the Chairman nor any other officer, employee, or representative of the P
 
 #### Section 1\. Location.
 
-The permanent headquarters and executive office of the Party shall be in the capital city of Texas.[^18]
+The permanent headquarters and executive office of the Party shall be in the capital city of Texas.<sup>[18](#article-ix-footnotes)</sup>
 
 #### Section 2\. Administration.
 
@@ -485,22 +480,20 @@ Funds shall be allocated for rental space and for personnel, as budgeted by the 
 
 Staff members shall remain neutral in intraparty contests for both public and Party offices.
 
----
 ###### Article IX Footnotes
 | |<sub>Reference</sub>|
 | --- | --- |
 |<sup>18</sup>|<sub>RPT Rules 32 and 43</sub>|
-
+---
 ### ARTICLE X – PARLIAMENTARY AUTHORITY
 
-Rules contained in the current edition of Robert’s Rules of Order Newly Revised shall govern the SREC in all cases to which they are applicable and in which they are not inconsistent with these Bylaws, the Rules of the Party, or any state or federal statute.[^19]
+Rules contained in the current edition of Robert’s Rules of Order Newly Revised shall govern the SREC in all cases to which they are applicable and in which they are not inconsistent with these Bylaws, the Rules of the Party, or any state or federal statute.<sup>[19](#article-x-footnotes)</sup>
 
----
 ###### Article X Footnotes
 | |<sub>Reference</sub>|
 | --- | --- |
 |<sup>19</sup>|<sub>RPT Rule 5</sub>|
-
+---
 
 ### ARTICLE XI – AMENDMENT OF BYLAWS
 
