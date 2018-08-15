@@ -1,7 +1,7 @@
 <strong>BYLAWS</strong>
 
 <a href="#standingrules">Standing Rules</a>
-
+Ver. 8/11/18
 <strong>STATE REPUBLICAN EXECUTIVE COMMITTEE</strong>
 <h1><strong>ARTICLE I – NAME</strong></h1>
 The name of the organization shall be the State Republican Executive Committee, hereinafter referred to as the “SREC”.
@@ -310,7 +310,7 @@ The standing committees of the SREC shall be the
  	<li>The following persons are ineligible to be appointed a voting member of the Legislative Affairs Committee:
 <ol>
  	<li>A person who holds any elected federal, state, or county public office, or who is a candidate for any elected federal, state, or county public office elected public office and has filed for the appointment of a campaign treasurer.</li>
- 	<li>A person who is employed for compensation either full-time or part-time as a political consultant, registered lobbyist, or as a staff member of a person described in (1).</li>
+ 	<li>A person who is a registered lobbyist.</li>
  	<li>A person who is the spouse of a person described in (1).</li>
  	<li>The term of office for the voting membership shall run until the end of the term of the current SREC unless a voting member becomes ineligible to serve due to a change in status under (c), in which case a vacancy is created.</li>
  	<li>Vacancies in the voting membership shall be filled promptly by the Chairman in the same manner as the original appointment.</li>
@@ -377,7 +377,7 @@ Amended: 10/18/96; 9/20/97; 12/13/97; 6/11/98; 6/12/99; 9/08/01
 
 Revised: 4/1/02
 
-Amended: 8/16/05; 3/10/06; 3/22/07; 9/26/09; 12/05/09; 9/25/10; 09/22/12; 03/02/13; 06/08/13; 09/28/13; 12/07/13; 03/29/14; 09/13/14; 12/06/14; 06/06/15; 09/12/15; 12/05/15; 05/14/16; 3/4/17; 6/3/17; 12/2/17; 1/27/18;
+Amended: 8/16/05; 3/10/06; 3/22/07; 9/26/09; 12/05/09; 9/25/10; 09/22/12; 03/02/13; 06/08/13; 09/28/13; 12/07/13; 03/29/14; 09/13/14; 12/06/14; 06/06/15; 09/12/15; 12/05/15; 05/14/16; 3/4/17; 6/3/17; 12/2/17; 1/27/18; 8/11/18
 <h1 id="standingrules"><b>STANDING RULES</b></h1>
 <div style="margin-bottom:20px">
 	<h3>I. Recording by Non-Members</h3>
