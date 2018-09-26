@@ -11,7 +11,7 @@ The purposes of the SREC shall be
  	<li>To act as the governing body of the Republican Party of Texas (hereinafter referred to as the “Party”) and exercise those powers and fulfill those duties and responsibilities conferred upon it by the state or federal statutes,</li>
  	<li>To establish general policy for the Party, subject to the direction of the biennial state convention,</li>
  	<li>To be responsible for the general supervision and management of the Party,</li>
- 	<li>To foster and encourage growth in the Party by promoting the principles as expressed in the platform and by electing Republican officeholders, and</li>
+ 	<li>To foster and encourage growth in the Party by promoting the principles, planks, and legislative priorities as expressed in the platform and by electing Republican officeholders, and</li>
  	<li>To provide an opportunity for full participation in the Party to all Texans who subscribe to the beliefs and principles advocated by the Party.</li>
 </ol>
 <h1><strong>ARTICLE III – MEMBERSHIP</strong></h1>
@@ -59,14 +59,14 @@ The elected officers of the SREC shall be the Chairman, the Vice-Chairman, and t
 The SREC shall meet upon call of the Chairman, at such times as required by the Texas Election Code and as provided by these Bylaws in succeeding sections of this Article and by the Rules of the Party. All meetings of the SREC shall be open to credentialed media representatives and to interested Party members, except the SREC may declare an executive (closed) session for the purpose of considering confidential matters.
 <ol style="list-style-type: upper-alpha;">
  	<li>STATUTORY MEETINGS. Meetings prescribed by the Texas Election Code shall be duly called by the Chairman, or in his absence by the Vice-Chairman, for the purpose so designated by law; and no other business may be transacted at such statutory meetings unless notice of such other business has been included in the call.</li>
- 	<li>REGULAR MEETINGS. The SREC shall meet no less frequently than quarterly for the conduct of business necessary to fulfill its objectives and purposes. A statutory meeting is not precluded from being designated as a quarterly meeting. In even-numbered years, the fourth quarterly meeting shall be held after the November general election.</li>
+ 	<li>REGULAR MEETINGS. The SREC shall meet no less frequently than quarterly for the conduct of business necessary to fulfill its objectives and purposes. Statutory business may occur at a regular meeting. In even-numbered years, the fourth quarterly meeting shall be held after the November general election.</li>
  	<li>ORGANIZATIONAL MEETINGS. One or more organizational meetings of the newly elected SREC shall be held within thirty (30) days following its election for the purpose of organizing the SREC, including the adoption of Bylaws, the election of a Secretary, and consideration of the Chairman’s appointments.</li>
  	<li>SPECIAL MEETINGS. Special meetings of the SREC may be called by the Chairman, and shall be called by the Chairman upon petition signed by at least fifteen (15) members of the SREC, representing no fewer than ten (10) state-senatorial districts, delivered to the Secretary (or to the State Headquarters if the Secretary is not available) at least fourteen (14) days prior to the date specified for the meeting. Any notice of a special meeting must contain the purpose for which the meeting is called.</li>
 </ol>
 <h2>Section 2. Notice of Meetings.</h2>
 A written call containing notice of the meeting shall be mailed and postmarked by the U.S. Postal Service, or transmitted by electronic mail, no later than twelve (12) days prior to the meeting, to each of the SREC members at the member’s address appearing on the Secretary’s records, with the method of notice above to be at the member’s option. (The foregoing provision does not apply to the organizational meeting of the SREC if such meeting is held immediately following the biennial state convention at which the SREC is elected and if an announcement is made while the biennial state convention is in session; however, such a meeting shall not be considered a regular quarterly meeting.) The twelve-day notice may be waived in the event of a stated emergency, as declared by the Officials Committee, in which case forty-eight (48) hours’ notice shall be given by telephone and confirmed by overnight letter.
 <h2>Section 3. Proxies.</h2>
-Written proxies for the SREC members shall be recognized at any general or executive meeting, but not committee meetings, of the SREC, except where otherwise specified in the bylaws, if the appointment complies with the Texas Election Code. Proxies are considered valid if the proxy giver’s signature is notarized or confirmation is provided to the Secretary and is approved by a proxy committee.
+Written proxies for the SREC members shall be recognized at any general or executive meeting, but not committee meetings, of the SREC, except where otherwise specified in the bylaws, if the appointment complies with the Texas Election Code. Proxies are considered valid if the proxy giver’s signature is notarized or confirmation is provided to the Secretary and is approved by a proxy committee. A member may choose to designate their Senate District counterpart to serve as a default proxy in the case of their absence and no other proxy being submitted. The member may remove the default proxy status as well.
 <h2>Section 4. Quorum.</h2>
 A quorum for all regular and special meetings of the SREC shall be a majority (no fewer than 33 SREC votes) of the SREC, in person or represented by proxy. At statutory meetings, a quorum shall consist of those members present, in person or represented by proxy (except where a different quorum requirement is imposed by the Texas Election Code) provided, however, that if a majority of the SREC is not represented as above provided, only the business required by the Texas Election Code shall be transacted.
 <h2>Section 5. Voting.</h2>
@@ -131,7 +131,7 @@ The standing committees of the SREC shall be the
  	<li>Auxiliaries and Coalitions Committee,</li>
  	<li>Resolutions Committee,</li>
  	<li>Rules Committee, and</li>
- 	<li>Legislative Affairs Committee.</li>
+ 	<li>Legislative Priorities Committee.</li>
 </ol>
 <h2>Section 8. Duties of Standing Committees.</h2>
 <ol style="list-style-type: upper-alpha;">
@@ -219,7 +219,6 @@ The standing committees of the SREC shall be the
 <ol style="list-style-type: lower-alpha;">
  	<li>COUNTY CHAIRMEN. The Committee shall be charged with the responsibility for recruiting, organizing, and training county chairmen, in cooperation with their respective SREC members, and for improving the effectiveness of the Party at the county level. The committee shall provide for meetings of county chairmen, no less than biennially, for the purpose of assisting and training county chairmen. All SREC members who are also county chairmen shall be voting ex-officio members of the Party Organization Committee. All other county chairmen shall be non-voting ex-officio members of the Party Organization Committee.</li>
  	<li>VOTER REGISTRATION. The Party Organization Committee shall develop programs to improve the registration of voters reasonably calculated to support Republican candidates.</li>
- 	<li>BALLOT SECURITY. The Party Organization Committee shall coordinate the ballot security program of the Party.</li>
 </ol>
 </li>
 </ol>
@@ -296,45 +295,46 @@ The standing committees of the SREC shall be the
 </ol>
 </li>
  	<li>
-<h3>THE LEGISLATIVE AFFAIRS COMMITTEE</h3>
+<h3>THE Legislative Priorities COMMITTEE</h3>
 <ol>
  	<li>Membership
-<ol style="list-style-type: lower-alpha;">
- 	<li>The voting membership of the Legislative Affairs Committee shall be composed of a Chair and no fewer than eight (8) members of the SREC, nominated by the Chairman and subject to confirmation by the SREC.</li>
- 	<li>Non SREC Members necessary to complete the work of the Committee.</li>
-</ol>
-</li>
+        <ol style="list-style-type: lower-alpha;">
+         	<li>The voting membership of the Legislative Priorities Committee shall be composed of a Chair and no fewer than eight (8) members of the SREC, nominated by the Chairman and subject to confirmation by the SREC.</li>
+         	<li>Non SREC Members necessary to complete the work of the Committee.</li>
+        </ol>
+    </li>
  	<li>Appointment, Eligibility, and Vacancies
-<ol style="list-style-type: lower-alpha;">
- 	<li>The committee Chair shall be appointed by the Chairman, subject to confirmation by the SREC.</li>
- 	<li>The non-voting members shall be appointed by the Chairman, subject to confirmation by the SREC no later than the first regular meeting following their appointment, and shall serve at the pleasure of the Chairman.</li>
- 	<li>The following persons are ineligible to be appointed a voting member of the Legislative Affairs Committee:
-<ol>
- 	<li>A person who holds any elected federal, state, or county public office, or who is a candidate for any elected federal, state, or county public office elected public office and has filed for the appointment of a campaign treasurer.</li>
- 	<li>A person who is a registered lobbyist.</li>
- 	<li>A person who is the spouse of a person described in (1).</li>
- 	<li>The term of office for the voting membership shall run until the end of the term of the current SREC unless a voting member becomes ineligible to serve due to a change in status under (c), in which case a vacancy is created.</li>
- 	<li>Vacancies in the voting membership shall be filled promptly by the Chairman in the same manner as the original appointment.</li>
-</ol>
-</li>
-</ol>
-</li>
+        <ol style="list-style-type: lower-alpha;">
+         	<li>The committee Chair shall be appointed by the Chairman, subject to confirmation by the SREC.</li>
+         	<li>The non-voting members shall be appointed by the Chairman, subject to confirmation by the SREC no later than the first regular meeting following their appointment, and shall serve at the pleasure of the Chairman.</li>
+         	<li>The following persons are ineligible to be appointed a voting member of the Legislative Priorities Committee:
+            <ol>
+             	<li>A person who holds any elected federal, state, or county public office, or who is a candidate for any elected federal, state, or county public office elected public office and has filed for the appointment of a campaign treasurer.</li>
+             	<li>A person who is a registered lobbyist.</li>
+             	<li>A person who is the spouse of a person described in (1).</li>
+             	<li>The term of office for the voting membership shall run until the end of the term of the current SREC unless a voting member becomes ineligible to serve due to a change in status under (c), in which case a vacancy is created.</li>
+             	<li>Vacancies in the voting membership shall be filled promptly by the Chairman in the same manner as the original appointment.</li>
+                </ol>
+            </li>
+        </ol>
+    </li>
  	<li>Duties
-<ol>
- 	<li>The Legislative Affairs Committee shall be authorized to work with Party staff and Republican members of the Texas State Government to promote passage of legislation crafted in sport of the Legislative Priorities of the Party by:
-<ol>
- 	<li>Reviewing bills filed in the Texas Legislature and providing information to the SREC and Republican voting public on bills that implement in whole or in part any of the Legislative Priorities of the Party.</li>
- 	<li>Promoting communication and education among the Republican voting public of recommended grassroots advocacy techniques to promote passage of bills that implement the Legislative Priorities of the Party.</li>
- 	<li>Making recommendations to the SREC or its other committees for other action(s) to take in support of the Legislative Priorities of the Party.</li>
+        <ol>
+         	<li>The Legislative Priorities Committee shall be authorized to work with Party staff and Republican members of the Texas State Government to promote passage of legislation crafted in sport of the Legislative Priorities of the Party by:
+                <ol>
+                 	<li>Reviewing bills filed in the Texas Legislature and providing information to the SREC and Republican voting public on bills that implement in whole or in part any of the Legislative Priorities of the Party.</li>
+                 	<li>Promoting communication and education among the Republican voting public of recommended grassroots advocacy techniques to promote passage of bills that implement the Legislative Priorities of the Party.</li>
+                 	<li>Making recommendations to the SREC or its other committees for other action(s) to take in support of the Legislative Priorities of the Party.</li>
+                </ol>
+            </li>
+        </ol>
+    </li>
+    <li>Committee Meetings: During legislative sessions, the party Chairman, Vice-Chairman, or Committee Chairman may call for meetings, including those via telecommunications, with two hours notice. Notice will be given as far in advance as is practical. A quorum is one-third.</li>
 </ol>
 </li>
 </ol>
-</li>
-</ol>
-</li>
-</ol>
-<h2>Section 9. Special Committees.</h2>
-Special committees, as are deemed necessary to perform duties not specifically assigned to a standing committee, may be appointed by the Chairman from time to time, subject to confirmation of the SREC.
+<h2>Section 9. Other Committees.</h2>
+Additional standing or special committees may be created by the Chairman or the SREC. If created by the Chairman, standing committees, charge, and membership shall be subject to confirmation by the SREC while special committees, charge, and membership shall be subject to confirmation by the SREC or Officials Committee.
 <h2>Section 10. Committee Meeting Via Telephone Conference</h2>
 Meetings of any committee or subcommittees thereof, called pursuant to Section 3 of this Article, may be conducted via telecommunications, except that notice of the special meeting must be sent to each member of the committee or subcommittee and each member of the SREC via mail or email and be posted on the RPT website five (5) days prior to the meeting. Such notice shall include matters to be discussed. Meetings held by telephone conference must allow for simultaneous aural communication among all participating members and must provide a method for non-committee members who have a right to appear before the committee or testify to seek recognition from the Chair of the committee or provide a scheduled opportunity for such testimony prior to the vote being taken on the relevant issue.
 <h1><strong>ARTICLE VIII – FINANCE</strong></h1>
@@ -356,7 +356,7 @@ Meetings of any committee or subcommittees thereof, called pursuant to Section 3
 Neither the Chairman nor any other officer, employee, or representative of the Party shall borrow money in the name of the Party unless expressly authorized to do so by a two-thirds (2/3) vote of the SREC, notice of request for such authorization having been included in the call to the meeting at which the request is to be made.
 <h1><strong>ARTICLE IX – STATE HEADQUARTERS.</strong></h1>
 <h2>Section 1. Location.</h2>
-The permanent headquarters and executive office of the Party shall be in the capital city of Texas.
+The permanent headquarters and executive office of the Party shall be in Travis County, Texas.
 <h2>Section 2. Administration.</h2>
 The executive director, (if one be appointed) shall administer the operations of the State Headquarters under the direction of the Chairman.
 <h2>Section 3. Funds.</h2>
@@ -366,7 +366,7 @@ Staff members shall remain neutral in intraparty contests for both public and Pa
 <h1><strong>ARTICLE X – PARLIAMENTARY AUTHORITY</strong></h1>
 Rules contained in the current edition of Robert’s Rules of Order Newly Revised shall govern the SREC in all cases to which they are applicable and in which they are not inconsistent with these Bylaws, the Rules of the Party, or any state or federal statute.
 <h1><strong>ARTICLE XI – AMENDMENT OF BYLAWS</strong></h1>
-These Bylaws may be amended at any meeting of the SREC, duly called and constituted, by two-thirds (2/3) vote of those members present and voting, in person or represented by proxy, provided that the amendment has been proposed in writing at the previous regular meeting, or notice of proposed amendment is included in the call to the meeting at which it will be presented.
+These Bylaws may be amended at any meeting of the SREC, duly called and constituted, by two-thirds (2/3) vote of those members present and voting, in person or represented by proxy, provided that the amendment has been proposed in writing at the previous regular meeting, or notice of proposed amendment is included in the call to the meeting at which it will be presented. A proposed amendment may include a description of the scope.
 
 Revised: 10/15/77
 
