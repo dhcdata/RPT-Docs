@@ -1,7 +1,7 @@
 <strong>BYLAWS</strong>
 
 <a href="#standingrules">Standing Rules</a>
-Ver. 8/11/18
+Ver. 9/22/18
 <strong>STATE REPUBLICAN EXECUTIVE COMMITTEE</strong>
 <h1><strong>ARTICLE I – NAME</strong></h1>
 The name of the organization shall be the State Republican Executive Committee, hereinafter referred to as the “SREC”.
@@ -378,7 +378,7 @@ Amended: 10/18/96; 9/20/97; 12/13/97; 6/11/98; 6/12/99; 9/08/01
 
 Revised: 4/1/02
 
-Amended: 8/16/05; 3/10/06; 3/22/07; 9/26/09; 12/05/09; 9/25/10; 09/22/12; 03/02/13; 06/08/13; 09/28/13; 12/07/13; 03/29/14; 09/13/14; 12/06/14; 06/06/15; 09/12/15; 12/05/15; 05/14/16; 3/4/17; 6/3/17; 12/2/17; 1/27/18; 8/11/18
+Amended: 8/16/05; 3/10/06; 3/22/07; 9/26/09; 12/05/09; 9/25/10; 09/22/12; 03/02/13; 06/08/13; 09/28/13; 12/07/13; 03/29/14; 09/13/14; 12/06/14; 06/06/15; 09/12/15; 12/05/15; 05/14/16; 3/4/17; 6/3/17; 12/2/17; 1/27/18; 8/11/18; 9/22/18
 <h1 id="standingrules"><b>STANDING RULES</b></h1>
 <div style="margin-bottom:20px">
 	<h3>I. Recording by Non-Members</h3>
