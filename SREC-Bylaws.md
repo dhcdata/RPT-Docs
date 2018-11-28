@@ -295,7 +295,7 @@ The standing committees of the SREC shall be the
 </ol>
 </li>
  	<li>
-<h3>THE Legislative Priorities COMMITTEE</h3>
+<h3>The Legislative Priorities Committee</h3>
 <ol>
  	<li>Membership
         <ol style="list-style-type: lower-alpha;">
