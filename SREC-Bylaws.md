@@ -1195,7 +1195,7 @@ hereinafter referred to as the “SREC”.
 </div>
 
 <h1>Glossary</h1>
-<h3>A Member have the following rights:</h3>
+<h3>A Member has the following rights:</h3>
 <ol>
 	<li>Attend Meetings</li>
 	<li>Speak in Debate</li>
