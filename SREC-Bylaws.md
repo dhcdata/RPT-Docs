@@ -1193,3 +1193,19 @@ hereinafter referred to as the “SREC”.
 		The staff and resources of the Republican Party of Texas may be made available to support the campaign efforts of Republican nominees in any way that is not in conflict with RPT Rules or SREC Bylaws. These resources may be made available in the same way to support the campaigns of Republican candidates in non-contested primaries and identifiable Republican candidates in non-partisan races where authorized by resolution of the SREC. 
 	</div>
 </div>
+
+<h1>Glossary</h1>
+<h3>A Member have the following rights:</h3>
+<ol>
+	<li>Attend Meetings</li>
+	<li>Speak in Debate</li>
+	<li>Make Motions</li>
+	<li>Vote</li>
+</ol>
+<h3>An Ex-Officio member has:</h3>
+<p>all of the rights of a member, but does not have the obligation to attend meetings.</p>
+<h3>An honorary member has the following rights:</h3>
+<ol>
+	<li>Attend meetings</li>
+	<li>Speak in debate</li>
+</ol>
