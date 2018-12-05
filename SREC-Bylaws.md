@@ -610,7 +610,6 @@ hereinafter referred to as the “SREC”.
                     <li>A member of the SREC who is an elected member of the
                         Officials Committee.</li>
                 </ol>
-
             </li>
             <li>The Candidate Resource Committee shall provide support to
                 Republican candidates for County and District offices by
@@ -996,12 +995,6 @@ hereinafter referred to as the “SREC”.
     </li>
 </ol>
 
-
-
-
-
-
-
 <h3>Section 9. Other Committees.</h3>
 <p>Additional standing or special committees may be created by the Chairman or
     the SREC. If created by the Chairman, standing committees, charge, and
@@ -1168,6 +1161,7 @@ hereinafter referred to as the “SREC”.
         12/06/14; 06/06/15; 09/12/15; 12/05/15; 05/14/16; 3/4/17; 6/3/17;
         12/2/17; 1/27/18; 8/11/18; 9/22/18; 12/01/18;</li>
 </ol>
+
 
 
 <h1 id="standingrules"><b>STANDING RULES</b></h1>
